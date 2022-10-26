@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "392360097024",
+    "project_id": "gsheets-338919",
+    "storage_bucket": "gsheets-338919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392360097024:android:adc4690b5c3a03bc892fe5",
+        "android_client_info": {
+          "package_name": "com.example.run_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392360097024-bmhramlnsig8cc0b8ev6mgc70sg3172l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASpjxcKP95BUidhnrhh7xM1sPKwpXvnQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392360097024-bmhramlnsig8cc0b8ev6mgc70sg3172l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "392360097024-n83545ffhkoe0qc1t107eipru5hrimlm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.runFinder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

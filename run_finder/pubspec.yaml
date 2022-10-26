@@ -1,0 +1,52 @@
+name: run_finder
+description: An (awful) app designed to help you choose a run
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  url_launcher: ^6.0.18
+  keyboard_actions: ^3.4.6
+  keyboard_visibility: ^0.5.6
+  
+  table_calendar: ^3.0.3
+  sliding_up_panel: ^2.0.0+1
+  firebase_core: ^1.12.0
+  firebase_storage: ^10.2.7
+  cloud_firestore: ^3.1.8
+  firebase_auth: ^3.3.7
+  flutterfire_ui: ^0.3.4
+  geolocator: ^8.2.0
+  page_transition: ^2.0.5
+  google_maps_flutter: ^2.1.4
+  flutter_polyline_points: ^1.0.0
+  http: ^0.13.4
+  fading_edge_scrollview: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+  flutter_launcher_icons: "^0.9.2"
+
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assests/PointToPoint.png"
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/
+  
