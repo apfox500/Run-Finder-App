@@ -5,3 +5,9 @@ The only files that have my code in them are in the lib folder, or pubspec.yaml(
 
 Available on the ios App store at:
 https://apps.apple.com/us/app/run-finder/id1621286922?platform=iphone
+
+If, when using the app, you would prefer a demo account reather than create your own here is a login:
+
+email: apfox500@gmail.com
+
+password: 123456
